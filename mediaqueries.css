@@ -10,6 +10,12 @@
   #projects {
     height: fit-content;
   }
+
+
+  .menu-links a {
+    color: white;
+  }
+
 }
 
 @media screen and (max-width: 1200px) {
@@ -44,6 +50,10 @@
   }
   .about-containers {
     margin-top: 0;
+  }
+
+  .menu-links {
+    color: white;
   }
 }
 
@@ -99,5 +109,9 @@
   }
   .text-container {
     text-align: justify;
+  }
+
+  .menu-links {
+    color: white;
   }
 }
